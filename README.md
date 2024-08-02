@@ -1,5 +1,2 @@
-Hi, I'm @heygreen.
-<!---
-heygruen/heygruen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 👋
+I'm @heygreen, a student interested in self-hosting, web development and music 🎶
